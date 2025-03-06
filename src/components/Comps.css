@@ -1,0 +1,46 @@
+.education, .infoprofile, .skills, .summary, .hobbies, .box {
+  background-color: rgba(255, 216, 222, 0.874);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center; 
+}
+
+.infoprofile {
+  background-color: rgba(255, 216, 222, 0.874);
+}
+
+.skills {
+  background-color: rgba(255, 216, 222, 0.874);
+}
+
+.summary {
+  background-color: rgba(255, 216, 222, 0.874);
+}
+
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+h1, h3, p {
+  text-align: center; 
+  font-weight: 500;
+  font-style: oblique;
+}
