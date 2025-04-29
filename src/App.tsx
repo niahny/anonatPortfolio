@@ -12,9 +12,15 @@ const App = () => {
         <h1>My Portfolio</h1>
         <p>Showcasing my journey, skills, and passions</p>
       </header>
+      <div className="">
       <ProfilePicture />
+      </div>
+      <div>
       <PersonalInfo />
+      </div>
+      <div>
       <Education />
+      </div>
       <div className="skills-hobbies">
         <Skills />
         <Hobbies />

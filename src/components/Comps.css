@@ -1,7 +1,9 @@
-.education, .infoprofile, .skills, .summary, .hobbies, .box {
+.education, .infoprofile,  .summary, .box {
   background-color: rgba(255, 216, 222, 0.874);
   padding: 20px;
-  margin-bottom: 20px;
+  width: 700px;  /* Set a smaller width */
+  height: 400px; /* Set a specific height */
+  margin: 0 auto 20px auto; /* Center the box */
   border-radius: 10px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   font-family: 'Georgia', serif; 
@@ -9,6 +11,63 @@
   line-height: 1.6;
   text-align: center; 
 }
+
+.infoprofile {
+  background-color: rgba(255, 216, 222, 0.874);
+  padding: 20px;
+  width: 700px;  /* Set a smaller width */
+  height: 300px; /* Set a specific height */
+  margin: 0 auto 20px auto; /* Center the box */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center; 
+}
+
+.hobbies {
+  background-color: rgba(255, 216, 222, 0.874);
+  padding: 20px;
+  width: 700px;  /* Set a smaller width */
+  height: 200px; /* Set a specific height */
+  margin: 0 auto 20px auto; /* Center the box */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center; 
+}
+
+.skills {
+  background-color: rgba(255, 216, 222, 0.874);
+  padding: 20px;
+  width: 700px;  /* Set a smaller width */
+  height: 300px; /* Set a specific height */
+  margin: 0 auto 20px auto; /* Center the box */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center; 
+}
+
+.education {
+  background-color: rgba(255, 216, 222, 0.874);
+  padding: 20px;
+  width: 700px;  /* Set a smaller width */
+  height: 600px; /* Set a specific height */
+  margin: 0 auto 20px auto; /* Center the box */
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: 'Georgia', serif; 
+  font-size: 18px;
+  line-height: 1.6;
+  text-align: center; 
+}
+
 
 .infoprofile {
   background-color: rgba(255, 216, 222, 0.874);

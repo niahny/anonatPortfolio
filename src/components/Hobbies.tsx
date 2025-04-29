@@ -1,7 +1,7 @@
 import './comps.css';
 
 const hobbiesList = [
-  "Photography/Videography: Capturing moments, editing videos, vlogging",
+  "Digital Editing, Editing videos, Photography",
   "Video Editing: Creating content for TikTok, YouTube, or school projects",
   "Sports: Basketball, football, volleyball, badminton"
 ];
